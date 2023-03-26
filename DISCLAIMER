@@ -1,0 +1,7 @@
+Disclaimer:
+
+I need to clarify that ISO 26262 is a functional safety standard for the automotive industry, and it defines requirements for the development of safety-critical software. These requirements include measures to mitigate and control the risks associated with software faults and failures.
+
+In order to develop a software function that complies with ISO 26262, it's important to first conduct a thorough safety analysis to determine the appropriate ASIL level for the function, as well as the specific safety requirements that need to be met. The safety analysis should consider the function's intended use, potential hazards, and possible failure modes.
+
+The code contained in this repo have only an academic purpose and are not to be taken for safety critical applications.
