@@ -59,5 +59,6 @@ void acquire_and_store_value_D()
 }
 
 int main() {
+    std::cout << "This is an example of an EEPROM application with safety considerations\n";
     return 0;
 }
