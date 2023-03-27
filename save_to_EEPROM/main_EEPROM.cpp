@@ -57,3 +57,7 @@ void acquire_and_store_value_D()
     // Code for storing value in EEPROM with  D-compliant mechanisms
     write_to_eeprom_with_check_redundancy_and_fault_detection(value);
 }
+
+int main() {
+    return 0;
+}
