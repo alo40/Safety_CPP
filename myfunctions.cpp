@@ -1,3 +1,5 @@
+#include <stdexcept>
+#include <cmath>
 #include "myfunctions.hpp"
 
 /* For A, the function implementation can be kept simple and straightforward since this 
